@@ -1,1 +1,156 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T03:10:35.694Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49" version="14.6.6" etag="E_eIsFtIAF9pqirLOFbD" type="github"><diagram id="UvY3f7l5zftkN79zsQGg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-28T03:53:04.536Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49" etag="ro0WlnqEcmEkkBl45zuI" version="14.6.6" type="github">
+  <diagram id="UvY3f7l5zftkN79zsQGg" name="第 1 页">
+    <mxGraphModel dx="526" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zU8jhb4syn41LF6NObeM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zU8jhb4syn41LF6NObeM-1" target="zU8jhb4syn41LF6NObeM-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="340" />
+              <mxPoint x="240" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-1" value="&amp;nbsp;数据分析函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zU8jhb4syn41LF6NObeM-2" target="zU8jhb4syn41LF6NObeM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-2" value="清洁数据类" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-7" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="270" as="sourcePoint" />
+            <mxPoint x="240" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zU8jhb4syn41LF6NObeM-12" target="zU8jhb4syn41LF6NObeM-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="300" />
+              <mxPoint x="240" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-12" value="关联匹配类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zU8jhb4syn41LF6NObeM-14" target="zU8jhb4syn41LF6NObeM-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="384" />
+              <mxPoint x="240" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-14" value="逻辑运算类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zU8jhb4syn41LF6NObeM-15" target="zU8jhb4syn41LF6NObeM-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="570" />
+              <mxPoint x="240" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-15" value="计算统计类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zU8jhb4syn41LF6NObeM-18" target="zU8jhb4syn41LF6NObeM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-18" value="主要是文本、格式以及脏数据的清洗和转换" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-20" value="脏数据：不在给定的范围、对实际业务毫无意义、格式非法、逻辑混乱等等问题的数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-27" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="517" height="254" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zU8jhb4syn41LF6NObeM-27">
+          <mxGeometry width="517" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-29" value="函数名" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-28">
+          <mxGeometry width="83" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-30" value="作用" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-28">
+          <mxGeometry x="83" width="217" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-43" value="案列" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-28">
+          <mxGeometry x="300" width="217" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-31" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zU8jhb4syn41LF6NObeM-27">
+          <mxGeometry y="43" width="517" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-32" value="Trim函数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-31">
+          <mxGeometry width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-33" value="清除字符串两边的空格" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-31">
+          <mxGeometry x="83" width="217" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-31">
+          <mxGeometry x="300" width="217" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zU8jhb4syn41LF6NObeM-27">
+          <mxGeometry y="85" width="517" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-35" value="concatenate函数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-34">
+          <mxGeometry width="83" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-36" value="将多个单元格中的内容合并至一个单元格" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-34">
+          <mxGeometry x="83" width="217" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-45" value="=concatenate（单元格1，单元格2）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-34">
+          <mxGeometry x="300" width="217" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zU8jhb4syn41LF6NObeM-27">
+          <mxGeometry y="128" width="517" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-38" value="replace函数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-37">
+          <mxGeometry width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-39" value="替换单元格的字符串" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-37">
+          <mxGeometry x="83" width="217" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-46" value="=replace（指定字符串，哪个位置开始替换，替换几个字符，替换成什么）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-37">
+          <mxGeometry x="300" width="217" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zU8jhb4syn41LF6NObeM-27">
+          <mxGeometry y="170" width="517" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-52" value="substitute函数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-51">
+          <mxGeometry width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-53" value="替换单元格内全部的字符" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-51">
+          <mxGeometry x="83" width="217" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-51">
+          <mxGeometry x="300" width="217" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-47" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zU8jhb4syn41LF6NObeM-27">
+          <mxGeometry y="212" width="517" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-48" value="Left/Right/Mid函数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-47">
+          <mxGeometry width="83" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-49" value="截取字符串中的字符" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-47">
+          <mxGeometry x="83" width="217" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="zU8jhb4syn41LF6NObeM-47">
+          <mxGeometry x="300" width="217" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zU8jhb4syn41LF6NObeM-41" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zU8jhb4syn41LF6NObeM-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="160" as="sourcePoint" />
+            <mxPoint x="470" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
